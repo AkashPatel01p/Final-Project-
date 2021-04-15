@@ -42,8 +42,7 @@ public class TestSelectionSort {
         /** add tests to check for this unit test **/
         arr = selectionSort.basicSelectionSort(arr);
         Assert.assertArrayEquals(arr, Sortedarr);
-
-	}
+}
 
 	public void testNegative() {
 		SelectionSort selectionSort = new SelectionSort();
