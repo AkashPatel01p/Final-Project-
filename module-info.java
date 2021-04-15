@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+
+/**
+ * @author Aku
+ *
+ */
+module main {
+}
